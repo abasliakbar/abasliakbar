@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Akbar Abasli 👋<br><br>I'm a backend developer in training. I'm learning backend development and building websites and mobile apps with the help of AI.
+## Hi, I'm Akbar Abasli 👋<br><br>I'm a backend developer in training. I'm learning backend development and building websites and mobile apps with the help of AI.
 
 
 ## 🌐 Socials:
